@@ -8,3 +8,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 
+common:
+  greeting: Hello from Config-Server
+
